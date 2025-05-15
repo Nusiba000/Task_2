@@ -1,11 +1,10 @@
 num_1 = 10 
 num_2 = 20
 num_3 = 30
-num_4 = 40
-num_5 = 50
 
 
-list_of_num = [12, 15, 20, 11, 5, 9] 
+
+list_of_num = [12, 15, 20] 
 
 #Input
 for _ in range(3):
