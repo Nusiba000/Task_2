@@ -1,0 +1,18 @@
+num_1 = 10 
+num_2 = 20
+num_3 = 30
+num_4 = 40
+num_5 = 50
+
+
+list_of_num = [12, 15, 20, 11, 5, 9] 
+
+#Input
+for _ in range(3):
+    user_input = int(input("Enter the number:"))
+    list_of_num.append(user_input)
+
+
+
+#Output(Result)
+print(list_of_num[5]) 
