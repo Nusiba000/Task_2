@@ -24,7 +24,7 @@ for price in price_list:
 print()
 print(f"Your total is:{total}OMR")
 
-#print(f"Your shopping list is: {food[0]}, {price[0]}")
+
     
     
 
